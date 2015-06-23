@@ -5,3 +5,4 @@ boost.asio asynchronous server.
 Client sends text to server and server returns all founded palindromes in it.
 
 Developed in Clion Professional edition v.1.
+Requires installed boost (used version - 1.5.5).
